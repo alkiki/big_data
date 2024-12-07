@@ -1,4 +1,4 @@
-# bigdata
+# AI-Generated Poems in an Indigenous Language
 
 This project explores a Tatar language. The project focuses on creating a model that would generate poetry in Tatar based on the dataset I scrapped. 
 
